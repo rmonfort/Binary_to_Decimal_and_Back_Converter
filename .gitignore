@@ -181,3 +181,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+*.sln
+*.config
+*.csproj
+Binary_to_Decimal_and_Back_Converter/Properties/AssemblyInfo.cs
